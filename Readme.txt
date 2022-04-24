@@ -3,4 +3,5 @@ with git init
 later added .gitignore
 Later added readme.txt
 Now the git ignore.txt files can be ignored from sending to the remote
-we can create branches locally    
+git add will help to bring the modified files for staging
+git commit will create the snapshot of staging files
