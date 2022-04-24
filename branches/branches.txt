@@ -1,0 +1,6 @@
+If the branch is in local repository
+add files in the master branch and and commit it and then push to the remote
+To create branch git checkout -b <branch>
+to check branch : git branch
+to push branch code for the first time git push --set-upstream origin develop
+
