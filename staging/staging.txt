@@ -1,0 +1,4 @@
+For staging you have to use
+git add . [Only for modifications and new files]
+git add -u [For all the modifications and deletions]
+git add -A [for all things]

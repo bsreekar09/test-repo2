@@ -1,0 +1,2 @@
+If you want to delete something goto the directory and type rm -rf <file>
+Post deleteing to add the code to staging git add --all
