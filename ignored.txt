@@ -1,0 +1,1 @@
+These kind of files are ignored to not show on the final copy to the world.     

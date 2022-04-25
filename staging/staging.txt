@@ -1,0 +1,8 @@
+For staging you have to use
+git add . [Only for modifications and new files]
+git add -u [For all the modifications and deletions]
+git add -A [for all things]
+post this use git commit -m "message"
+later on use git push for the remote
+if the branch is new use git push --set-upstream origin branch
+later on use git push to push the commited changes

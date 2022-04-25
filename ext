@@ -1,0 +1,23 @@
+[33mcommit 872a96a1ebe9f44e765f4a3bb8f1365ede399805[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: bsreekar09 <bsreekar09@gmail.com>
+Date:   Mon Apr 25 10:55:24 2022 +0530
+
+    Removed ignorable files on master branch
+
+[33mcommit 031dde897ec376ff6ba453aa10acf1f51d6128e9[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: bsreekar09 <bsreekar09@gmail.com>
+Date:   Mon Apr 25 10:45:03 2022 +0530
+
+    The files that has to be ignored which are on remote are deleted from there
+
+[33mcommit 98a7587e4ee5fcb840899ebb96b4c02446d5436e[m
+Author: bsreekar09 <bsreekar09@gmail.com>
+Date:   Mon Apr 25 10:33:05 2022 +0530
+
+    Learnt to delete branch
+
+[33mcommit bb2518b6aaeca2c07d486dcc139577de1519d355[m
+Author: bsreekar09 <bsreekar09@gmail.com>
+Date:   Mon Apr 25 10:21:55 2022 +0530
+
+    commit pushing after understanding deltions and staging
