@@ -1,0 +1,4 @@
+If I have to ignore any files locally I can type the file name in the .gitignore
+There can be .gitignore files inside directories, 
+If i have to remove any file or that has to ignored but is on remote. I will type git rm --cached <filename>
+Then add it to staging and commit it and push the code to remote. The files are returned back to local
