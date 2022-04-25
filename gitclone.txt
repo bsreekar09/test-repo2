@@ -1,0 +1,7 @@
+Logic to copy a remote repository to new repository  keeping the original repo
+source I learnt from : https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
+clone the repository with: git clone --bare <old repository url>
+open the .git file of old repository file in the same directory
+push it as mirror to new git repository url with: git push --mirror <new repository url>
+delete the .git file in older repository
+Now you can clone the new repository into new local folder as usual
